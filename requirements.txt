@@ -1,0 +1,8 @@
+gradio
+faiss-cpu
+sentence-transformers
+pdfplumber
+transformers
+langchain
+langchain-community
+scikit-learn
